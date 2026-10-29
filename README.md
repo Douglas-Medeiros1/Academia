@@ -10,3 +10,10 @@ Projeto de academia da disciplina de Engenharia de Software sob orientação do 
 # Link do Trello (primeira atividade do projeto)
 
 https://trello.com/b/XQ81U4De
+
+# membros da equipe: 
+
+ - Crizan
+ - Jose Douglas
+ - Kaio
+ - Rian
